@@ -1,4 +1,4 @@
-// app.js - Interatividade e Simulações da Landing Page Saga AI
+// app.js - Interatividade e Simulações da Landing Page MOD. AI
 
 document.addEventListener("DOMContentLoaded", () => {
   // ==========================================
